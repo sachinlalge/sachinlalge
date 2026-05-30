@@ -1,7 +1,7 @@
 Hi 👋 My name is Sachin Lalge
 =============================
 
-Web Developer and Designer
+Software Developer and Designer
 --------------------------
 
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for UI development...
@@ -9,7 +9,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [MyPortfolio](http://sachinlalge.io/)
 *   ✉️  You can contact me at [sachinlalge123@gmail.com](mailto:sachinlalge123@gmail.com)
-*   🚀  I'm currently working on [e-learning](http://www.edgelearning.co.in/), [wealth](https://finawiz.com/)
+*   🚀  I'm currently working on [E-learning](http://www.edgelearning.co.in/), [Finance](https://finawiz.com/)
 *   🧠  I'm learning React native.
 *   🤝  I'm open to collaborating on interesting projects.<a href="https://www.twitter.com/lalge_sachin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/lalge_sachin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
