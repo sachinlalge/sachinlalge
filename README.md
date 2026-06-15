@@ -13,12 +13,14 @@ I am a passionate Software Developer and Designer with 5+ years of experience in
 *   🧠  Exploring React Native and mobile application development
 *   🤝 Open to collaboration on innovative and impactful projects.
 
+--------------------------
+
 💡 What I Do
-* Build scalable frontend applications with Angular and TypeScript
-* Design intuitive and user-friendly interfaces
-* Create responsive and accessible web experiences
-* Bridge the gap between design and development
-* Continuously explore new technologies and development practices
+    * Build scalable frontend applications with Angular and TypeScript
+    * Design intuitive and user-friendly interfaces
+    * Create responsive and accessible web experiences
+    * Bridge the gap between design and development
+    * Continuously explore new technologies and development practices
   
   ### Skills<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
