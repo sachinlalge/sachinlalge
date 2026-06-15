@@ -1,17 +1,17 @@
-Hi 👋 My name is Sachin Lalge
+Hi 👋, I'm Sachin Lalge
 =============================
 
-Software Developer and Designer
+Software Developer & UI Designer
 --------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for UI development...
+I am a passionate Software Developer and Designer with 5+ years of experience in web development. After transitioning into technology from a different career path, I started my journey with HTML and gradually built expertise in modern frontend development, UI/UX design, and scalable web applications.
 
-*   🌍  I'm based in Mumbai
-*   🖥️  See my portfolio at [MyPortfolio](http://sachinlalge.io/)
-*   ✉️  You can contact me at [sachinlalge123@gmail.com](mailto:sachinlalge123@gmail.com)
-*   🚀  I'm currently working on [E-learning](http://www.edgelearning.co.in/), [Finance](https://finawiz.com/)
-*   🧠  I'm learning React native.
-*   🤝  I'm open to collaborating on interesting projects.<a href="https://www.twitter.com/lalge_sachin" target="_blank" rel="noreferrer"><img
+*   🌍  Based in Mumbai, India
+*   🖥️  Portfolio: [MyPortfolio](http://sachinlalge.io/)
+*   ✉️  Email: [sachinlalge123@gmail.com](mailto:sachinlalge123@gmail.com)
+*   🚀  Currently working on [E-learning](http://www.edgelearning.co.in/) and [Finance](https://finawiz.com/)-related applications
+*   🧠  Exploring React Native and mobile application development
+*   🤝 Open to collaboration on innovative and impactful projects.<a href="https://www.twitter.com/lalge_sachin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/lalge_sachin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
 
