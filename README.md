@@ -50,5 +50,7 @@ I am a passionate Software Developer and Designer with 5+ years of experience in
 </div>
 <br /><br /><br /><br />
 
+=============================
+
 Thanks for visiting my profile. Feel free to explore my repositories, connect with me, or reach out for collaboration opportunities.
 
