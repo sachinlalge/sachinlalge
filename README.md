@@ -11,10 +11,9 @@ I am a passionate Software Developer and Designer with 5+ years of experience in
 *   ✉️  Email: [sachinlalge123@gmail.com](mailto:sachinlalge123@gmail.com)
 *   🚀  Currently working on [E-learning](http://www.edgelearning.co.in/) and [Finance](https://finawiz.com/)-related applications
 *   🧠  Exploring React Native and mobile application development
-*   🤝 Open to collaboration on innovative and impactful projects.<a href="https://www.twitter.com/lalge_sachin" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/lalge_sachin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+*   🤝 Open to collaboration on innovative and impactful projects.
 
+  
   ### Skills<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
