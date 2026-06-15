@@ -48,7 +48,7 @@ I am a passionate Software Developer and Designer with 5+ years of experience in
 <a href="https://github.com/sachinlalge/ionicDarkTheme" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinlalge&repo=ionicDarkTheme&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/sachinlalge/ionic-swipeable-side-menu" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinlalge&repo=ionic-swipeable-side-menu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
-### Support Me
-<a href="https://www.buymeacoffee.com/sachinlalge"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+Thanks for visiting my profile. Feel free to explore my repositories, connect with me, or reach out for collaboration opportunities.
+
